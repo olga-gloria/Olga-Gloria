@@ -1,16 +1,37 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
 
-<!--
-**olga-gloria/Olga-Gloria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olga Gloria - Personal Webpage</title>
+</head>
 
-Here are some ideas to get you started:
+<body>
+    <header>
+        <h1>Welcome to Olga Gloria's Personal Webpage</h1>
+    </header>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I'm Olga Gloria. I'm a highly educated, self-employed individual who values family and continuous learning.</p>
+        <p>I'm married with one daughter and enjoy various activities such as cooking, making cosmetics, and, of course, exploring the world of cars!</p>
+    </section>
+
+    <section>
+        <h2>My Hobbies</h2>
+        <p>My hobbies include:</p>
+        <ul>
+            <li>Cooking</li>
+            <li>Making cosmetics</li>
+            <li>Exploring the world of cars</li>
+            <li>Continuous learning</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Olga Gloria - Personal Webpage</p>
+    </footer>
+</body>
+
+</html>
